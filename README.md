@@ -1,4 +1,4 @@
-# CSDM assignment task README.md file
+# CS Digital Media assignment task README.md file
 
 \*\*Version 1.0.0
 
@@ -6,7 +6,7 @@ This repo consists of example of a suite of test cases regarding Login and Suppo
 
 ## :gear: Setup
 
-1. 'git clone https://github.com/Arsenovski/bynder-assignment.git'
+1. 'git clone https://github.com/Arsenovski/CSDM-assignment.git'
 2. run 'npm install'
 
 ---
