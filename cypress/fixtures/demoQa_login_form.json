@@ -1,0 +1,16 @@
+{
+  "validCredentials": {
+    "userName": "andrejarsenovski",
+    "password": "csdm_Assignment1!"
+  },
+  "invalidCredentials": {
+    "userName": "InvalidUsername",
+    "password": "InvalidPassword"
+  },
+  "routes": {
+    "books": "/books",
+    "login": "/login",
+    "register": "/register",
+    "profile": "/profile"
+  }
+}

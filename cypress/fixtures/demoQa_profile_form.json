@@ -1,0 +1,9 @@
+{
+  "bookName": "Speaking JavaScript",
+  "routes": {
+    "books": "/books",
+    "login": "/login",
+    "register": "/register",
+    "profile": "/profile"
+  }
+}

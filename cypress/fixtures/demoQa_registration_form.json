@@ -1,0 +1,18 @@
+{
+  "bookName": "Speaking JavaScript",
+
+  "validRegistrationInfo": {
+    "firstName": "Andrej",
+    "lastName": "Arsenovski",
+    "username": "andrejarsenovski",
+    "password": "csdm_Assignment1!"
+  },
+  "routes": {
+    "books": "/books",
+    "login": "/login",
+    "register": "/register"
+  },
+  "messages": {
+    "incorrectCredentials": "Invalid username or password!"
+  }
+}

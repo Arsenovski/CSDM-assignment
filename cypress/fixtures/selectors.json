@@ -1,0 +1,23 @@
+{
+  "------------------- DemoQA ------------------": "",
+  "searchBox": "#searchBox",
+  "searchBtn": "#basic-addon2",
+  "loginBtn": "#login",
+  "registerBtn": "#register",
+
+  "newUserBton": "#newUser",
+
+  "username": "#userName",
+  "password": "#password",
+
+  "firstName": "#firstname",
+  "lastName": "#lastname",
+
+  "logoutButton": "#submit",
+
+  "deleteAllBooks": "#submit",
+
+  "bookStore": "#gotoStore",
+
+  "addBookToCollection": "#addNewRecordButton"
+}
